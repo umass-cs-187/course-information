@@ -63,7 +63,7 @@ programming assignments, and participation on the online course
 - Midterm Exam
 - Participation Tasks
 - Final Exam
-￼
+
 ## Grading Scheme
 Students' grades are based on the following scheme:
 
