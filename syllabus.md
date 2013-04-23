@@ -73,7 +73,7 @@ Students' grades are based on the following scheme:
 - 20% Final Exam
 
 ## Details
-*Assignments*: There will be 7 intensive weekly written/programming
+**Assignments**: There will be 7 intensive weekly written/programming
 assignments. An assignment is a combination of mostly programming
 exercises and possibly a written component. Assignments will be
 submitted electronically through blackboard. Assignments will not
@@ -82,13 +82,13 @@ necessarily be graded on the basis of “it works” or “it does not work”
 same time it is important to submit a functioning program if that is
 what the assignment calls for.
 
-*Quizzes*: There will be 8 quizzes that will be based on the material
+**Quizzes**: There will be 8 quizzes that will be based on the material
 for the week. They will be assigned ￼and due at the end of the week on
 Friday. Quizzes will be online and timed through the blackboard
 ￼system. Quizzes will be multiple choice and true/false and
 automatically graded by blackboard.
 
-*Exams*: There will be a Midterm and Final exam. Both exams are will
+**Exams**: There will be a Midterm and Final exam. Both exams are will
 be online exams and will be a combination of multiple choice, short
 answer, true/false, and programming exercises that you will be
 required to complete. The exams will be available during a specified
@@ -101,7 +101,7 @@ chapter from a book to answer a question. During the examination
 period you are required to work alone and any suspicion of academic
 dishonesty will be handled appropriately.
 
-*Final Grades*: Your grades will be based on the above scheme,
+**Final Grades**: Your grades will be based on the above scheme,
 however, there are a number of factors ￼that help determine your final
 grade for the course. This includes the quality of your work,
 participation, ￼etc. For example, if you have excellent scores through
