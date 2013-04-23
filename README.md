@@ -1,4 +1,4 @@
 course-docs
 ===========
 
-The course documents describing the course.
+The course documents describing CMPSCI 187.
