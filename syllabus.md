@@ -44,7 +44,7 @@ language. In particular:
 - To learn and apply the Java collections library.
 - To learn how to analyze general solutions rather than the specific.
 - To understand and apply the basics of algorithm analysis.
-- To learn and apply Java’s basic structuring mechanisms including
+- To learn and apply Java's basic structuring mechanisms including
   references and arrays.
 - To learn and apply abstract data types (ADT).
 - To learn and apply a variety of ADTs including stacks, queues,
@@ -55,7 +55,7 @@ language. In particular:
 
 ## Assessment
 Student knowledge of the course will be assessed from a variety of
-angles. This includes assigned ￼readings, quizzes, exams, written &
+angles. This includes assigned readings, quizzes, exams, written &
 programming assignments, and participation on the online course
 
 - 7 Assignments
@@ -77,15 +77,15 @@ Students' grades are based on the following scheme:
 assignments. An assignment is a combination of mostly programming
 exercises and possibly a written component. Assignments will be
 submitted electronically through blackboard. Assignments will not
-necessarily be graded on the basis of “it works” or “it does not work”
-– I will review your code to determine an appropriate score – at the
+necessarily be graded on the basis of how it works or if it does not work
+- I will review your code to determine an appropriate score - at the
 same time it is important to submit a functioning program if that is
 what the assignment calls for.
 
 **Quizzes**: There will be 8 quizzes that will be based on the material
-for the week. They will be assigned ￼and due at the end of the week on
+for the week. They will be assigned and due at the end of the week on
 Friday. Quizzes will be online and timed through the blackboard
-￼system. Quizzes will be multiple choice and true/false and
+system. Quizzes will be multiple choice and true/false and
 automatically graded by blackboard.
 
 **Exams**: There will be a Midterm and Final exam. Both exams are will
@@ -102,9 +102,9 @@ period you are required to work alone and any suspicion of academic
 dishonesty will be handled appropriately.
 
 **Final Grades**: Your grades will be based on the above scheme,
-however, there are a number of factors ￼that help determine your final
+however, there are a number of factors that help determine your final
 grade for the course. This includes the quality of your work,
-participation, ￼etc. For example, if you have excellent scores through
+participation, etc. For example, if you have excellent scores through
 out the entire semester and you bombed the midterm I would be more
 likely to push your grade up if you are on the border of receiving a
 more desirable grade. It is also possible that I not give you that
@@ -132,7 +132,7 @@ documented medical events, late homework will not be accepted for full
 credit. You are responsible for learning how to use blackboard and how
 to properly submit an assignment. Assignments will not be accepted if
 you fail to submit the assignment properly through blackboard or
-submit the wrong solution – so don’t ask for extensions. UMass policy
+submit the wrong solution - so don't ask for extensions. UMass policy
 is that students are required to notify instructors at least one week
 in advance that they will miss class in order to observe a religious
 holiday. Makeup work will not be given, so don't ask.
@@ -144,7 +144,7 @@ blackboard, but if they are beneficial to the entire class I will ask
 that you post your question in the discussion forum. The discussion
 forum should be your first choice for asking questions as others most
 certainly have the same question and your participation in this course
-includes responding to questions posted online – it will help your
+includes responding to questions posted online - it will help your
 grade in the end. You should check the discussion forum before asking
 your question to see if the same question has already been posted. I
 will not answer questions directed towards me that have already been
@@ -165,7 +165,7 @@ other on exams. I encourage you to discuss assignment problems with
 others in this course, however, your writing (including code) of
 solutions must be your own. You should record as part of your
 submission those individuals you collaborated with during a
-discussion—this will help protect you if academic dishonesty is
+this will help protect you if academic dishonesty is
 suspected. Any outside material including online resources that you
 used to develop a solution must be recorded as part of your
 submission. Of course, copying any material directly or indirectly
@@ -173,7 +173,7 @@ from the web is considered dishonest and is much easier than you think
 for me to detect, so don't do it!
 
 When in doubt, contact me about whether a potential action would be
-considered plagiarism. Copying or using sections of someone else’s
+considered plagiarism. Copying or using sections of someone else's
 program or assignment, even if it has been modified by you, is not
 acceptable. The University has very clear guidelines for academic
 misconduct and I will be vigorous in enforcing them. Please see the
@@ -181,4 +181,4 @@ UMass policy on [academic honesty][honesty] if you need clarification.
 
 [book]: http://www.amazon.com/Object-Oriented-Data-Structures-Using-Java/dp/1449613543/ref=pd_sim_b_2
 [honesty]: http://www.umass.edu/dean_students/codeofconduct/acadhonesty/#B
-￼
+
