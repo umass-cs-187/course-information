@@ -157,7 +157,6 @@ to work on an assignment and expect me to answer all of your questions
 when it is due the following morning.
 
 ## Academic Honesty
-
 All submitted work must be your own. Although students may
 collaborate, each student is expected to produce his or her own
 solution to the assignment problems. You may not collaborate with each
