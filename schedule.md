@@ -1,4 +1,4 @@
-# CMPSCI 187 Programming With Data Structures - Schedule
+## CMPSCI 187 Programming With Data Structures - Schedule
 
 ## Weekly Format
 In order to cover the same amount of material required by the regular

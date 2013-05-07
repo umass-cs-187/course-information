@@ -1,4 +1,4 @@
-# CMPSCI 187 Programming With Data Structures - Syllabus
+## CMPSCI 187 Programming With Data Structures - Syllabus
 
 ## Description
 This course introduces and develops methods for designing and
@@ -67,7 +67,7 @@ assignments, and discussion tasks on the online course
 Students' grades are based on the following scheme:
 
 - 40% Projects
-- 20% Written Assignments 
+- 20% Written Assignments
 - 20% Midterm Exam
 - 20% Final Exam
 
