@@ -8,8 +8,7 @@ objects and their associated operations. Specific topics include
 linked structures, recursive structures and algorithms, binary trees,
 balanced trees, and hash tables. These topics are fundamental to
 programming and are essential to other courses in computer
-science. There will be weekly assignments and assignments and several
-exams. 4 credits.
+science. 4 credits.
 
 ## Prerequisites
 CMPSCI 121 (or equivalent Java experience) and Basic Math Skills
@@ -55,20 +54,20 @@ language. In particular:
 
 ## Assessment
 Student knowledge of the course will be assessed from a variety of
-angles. This includes assigned readings, quizzes, exams, written &
-programming assignments, and participation on the online course
+angles. This includes assigned readings, exams, projects, written
+assignments, and discussion tasks on the online course
 
-- 7 Assignments
-- 8 Quizzes
-- Midterm Exam
-- Participation Tasks
-- Final Exam
+- 7 Projects
+- 7 Written Assignments
+- Weekly Discussion Tasks
+- Midterm Take Home Exam
+- Final Take Home Exam
 
 ## Grading Scheme
 Students' grades are based on the following scheme:
 
-- 40% Assignments
-- 10% Quizzes
+- 40% Projects
+- 20% Written Assignments 
 - 20% Midterm Exam
 - 20% Final Exam
 
