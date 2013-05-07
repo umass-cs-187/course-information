@@ -101,4 +101,4 @@ available and the due date.
 - Chapter 10 Sorting and Searching, pp. 472-523
 
 *Work*
-- Final Take Home Exam 
+- Final Take Home Exam
