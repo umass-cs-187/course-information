@@ -17,8 +17,8 @@ available and the due date.
 
 ### Part 1: Overview and Abstract Data Types
 
-#### Week 1: Getting Organized & Abstract Data Types
 ---
+#### Week 1: Getting Organized & Abstract Data Types
 *Readings*
 - Chapter 1 Getting Organized, pp. 1-50
 - Chapter 2 Abstract Data Types, pp. 63-146
@@ -29,8 +29,8 @@ available and the due date.
 
 ### Part 2: Stacks, Recursion, and Queues
 
-#### Week 2: The Stack ADT
 ---
+#### Week 2: The Stack ADT
 *Readings*
 - Chapter 3 The Stack ADT, pp. 159-229
 
@@ -38,8 +38,8 @@ available and the due date.
 - Project 2
 - Discussion 2
 
-#### Week 3: Recursion
 ---
+#### Week 3: Recursion
 *Readings*
 - Chapter 4 Recursion, pp. 224-285
 
@@ -47,8 +47,8 @@ available and the due date.
 - Project 3
 - Discussion 3
 
-#### Week 4: The Queue ADT
 ---
+#### Week 4: The Queue ADT
 *Readings*
 - Chapter 5 The Queue ADT, pp. 297-370
 
@@ -57,8 +57,8 @@ available and the due date.
 
 ### Part 3: Lists and Binary Search Trees
 
-#### Week 5: The List ADT
 ---
+#### Week 5: The List ADT
 *Readings*
 - Chapter 6 The List ADT
 
@@ -66,8 +66,8 @@ available and the due date.
 - Project 4
 - Discussion 4
 
-#### Week 6: More Lists
 ---
+#### Week 6: More Lists
 *Readings*
 - Chapter 7 More Lists, pp. 472-523
 
@@ -75,8 +75,8 @@ available and the due date.
 - Project 5
 - Discussion 5
 
-#### Week 7: Binary Search Trees
 ---
+#### Week 7: Binary Search Trees
 *Readings*
 - Chapter 8 Binary Search Trees, pp. 531-598
 
@@ -86,8 +86,8 @@ available and the due date.
 
 ### Part 4: Priority Queues, Heaps, and Graphs
 
-#### Week 8: Priority Queues, Heaps, and Graphs
 ---
+#### Week 8: Priority Queues, Heaps, and Graphs
 *Readings*
 - Chapter 9 Priority Queues, Heaps, and Graphs, pp. 472-523
 
@@ -95,8 +95,8 @@ available and the due date.
 - Project 7
 - Discussion 7
 
-#### Week 9: Sorting and Searching Algorithms
 ---
+#### Week 9: Sorting and Searching Algorithms
 *Readings*
 - Chapter 10 Sorting and Searching, pp. 472-523
 
