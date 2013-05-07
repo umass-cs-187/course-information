@@ -73,13 +73,12 @@ Students' grades are based on the following scheme:
 
 ## Details
 **Assignments**: There will be 7 intensive weekly written/programming
-assignments. An assignment is a combination of mostly programming
-exercises and possibly a written component. Assignments will be
-submitted electronically through blackboard. Assignments will not
-necessarily be graded on the basis of how it works or if it does not work
-- I will review your code to determine an appropriate score - at the
-same time it is important to submit a functioning program if that is
-what the assignment calls for.
+assignments. An assignment is a combination of mostly programming exercises
+and possibly a written component. Assignments will be submitted electronically
+through blackboard. Assignments will not necessarily be graded on the basis of
+how it works or if it does not work - I will review your code to determine an
+appropriate score - at the same time it is important to submit a functioning
+program if that is what the assignment calls for.
 
 **Quizzes**: There will be 8 quizzes that will be based on the material
 for the week. They will be assigned and due at the end of the week on
