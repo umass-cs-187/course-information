@@ -8,7 +8,8 @@ successfully. You will be notified at the start date of the course and given
 instructions on which applications and/or services you must register for. This
 course **is not** using Blackboard or Moodle for a learning management system.
 
-## Piazza
+## Communication
+### Piazza
 [Piazza][piazza] is a online discussion management system. It will be used as
 the hub for communication in this course. All questions and answers will be
 posted to Piazza. Your questions will be answered as quickly as possible by
@@ -31,7 +32,8 @@ We will be using email to send out a summary of your grades each week. It is
 your responsibility to monitor your grades. If you have questions about your
 grades you should send a private post to the course staff on [Piazza][piazza].
 
-## Github
+## Assignments
+### Github
 [Github][github] is an online source versioning control system (VCS). All the
 assignments for the course will be retrieved from Github. You **will not be
 required** to learn [git][git] in order to retrieve your assignments - but, it
