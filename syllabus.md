@@ -139,7 +139,7 @@ course. Further, if there are formal disciplinary proceedings, we will
 lobby for the maximum possible penalty. So, in short, don't do it.
 
 Academic dishonesty is usually the result of other problems in
-school. Please come see us or the TAs if you are unable to keep up
+school. Please come contact us or the TAs if you are unable to keep up
 with the work for any reason, and we will try to work something
 out. We want to see you succeed! We will bend over backwards to help
 you, but we will not tolerate academic dishonesty.
