@@ -157,3 +157,6 @@ on attendance, absences due to religious observance, and examinations.
 [textbook]: http://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644
 [moodle]: http://moodle.umass.edu
 [conduct]: http://www.umass.edu/dean_students/uploads/listWidget/25145/Code%20of%20Student%20Conduct%202013-2014.pdf
+[Office of the Registrar]: http://www.umass.edu/registrar
+[Academic Regulations]: http://www.umass.edu/registrar/sites/default/files/academicregs.pdf
+
