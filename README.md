@@ -29,3 +29,4 @@ here before you communicate with us.
 * [Course Management](management.md)
 * [Schedule](schedule.md)
 * [Academic Honesty](honesty.md)
+

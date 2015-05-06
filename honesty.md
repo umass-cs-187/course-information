@@ -42,7 +42,7 @@ the university. Your signature indicates that you completely understand the
 policies in place and that you have not plagiarized. Here is an example of what
 you will see on each assignment, quiz, and exam:
 
-## CMPSCI 220 Academic Honesty Policy
+## CMPSCI 187 Academic Honesty Policy
 
 Excerpts from the campus Academic Honesty Policy, which may be found at
 
@@ -95,7 +95,7 @@ Resources available to you:
 
 Honesty pledge:
 
-I pledge to obey these honesty policies for CMPSCI 220 and to report any
+I pledge to obey these honesty policies for CMPSCI 187 and to report any
 violation of them that I witness.
 
 Signed:  ________________________________
