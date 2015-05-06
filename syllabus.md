@@ -13,16 +13,35 @@ science. Prerequisites: CMPSCI 121 (or equivalent Java experience) and
 Basic Math Skills (R1). Basic Java language concepts are introduced
 quickly; if unsure of background, contact instructor. 4 credits.
 
-## Textbooks
+## Course Materials
 
-The required texts for this course are:
+The required text for this course is:
 
-* [Object-Oriented Data Structures Using Java], Nell Dale, Daniel Joyce,
-  and Chip Weems (**required**)
-* [Java Precisely], Peter Sestoft
+* [Object-Oriented Data Structures Using Java], 3rd edition, Nell
+  Dale, Daniel Joyce, and Chip Weems (DJW). This course follows the
+  book fairly closely. If we add any additional material we will
+  provide links to any associated reading. The first and second
+  edition of this book are substantially different so you will need to
+  pick up the 3rd edition.
+
+Other useful (but not required material) includes:
+
+* [Java Precisely], Peter Sestoft. This book is intended more as a
+  reference for people who already know the language, but it has both
+  all the details you aren't likely to memorize and a very clear
+  definition of exactly what the language is and what it does.
+* [Learning Java], 4th edition, Patrick Niemeyer and Daniel Leuck. A
+  learn-by-example book about Java. You can read it online for free,
+  or buy the e-book.
+* [Java API Specification], Standard Edition 7.
 
 [Object-Oriented Data Structures Using Java]: http://www.amazon.com/Object-Oriented-Data-Structures-Using-Java/dp/1449613543/ref=pd_sim_b_2
 [Java Precisely]: http://www.amazon.com/Java-Precisely-Peter-Sestoft/dp/0262693259
+[Learning Java]: http://chimera.labs.oreilly.com/books/1234000001805
+[Java API Specification]: http://docs.oracle.com/javase/7/docs/api/index.html
+
+We assume you have a computer and an internet connection to retrieve
+course materials and complete the assignments.
 
 ## Course Objectives
 
@@ -61,102 +80,54 @@ weekly quizzes that will guide you in your understanding of
 data structures and three exams that will test your understanding of
 the material that has been covered.
 
-### Grading Scheme
+### Assessment and Grading
 
-Students' grades are based on the following scheme:
+Each assessment component is worth a fixed number of points. At any
+point during the course you can easily calculate your current grade by
+the number of points you have achieved with respect to the total
+number of points you can attain in the course. You should read the
+course policies to understand lateness.
 
-* 50% Programming Assignments
-* 20% Quizzes
-* 10% Exam 01
-* 10% Exam 02
-* 10% Exam 03
+* **Programming Assignments (900 points):** There will be 9
+  programming assignments assigned during the course. Each programming
+  assignment will be assigned at that start of the week and they will
+  be due at the beginning of the next week. Each programming
+  assignment is worth 100 points. Late assignments will not be
+  accepted. Programming assignments will be submitted as Eclipse
+  projects using [moodle]. The programming assignments will be
+  automatically graded using both *public* and *private* unit
+  tests. You will have access to the public unit tests to better
+  understand how we are testing your submission. The private tests
+  will be additional tests only available to us.
+* **Exercises Assignments (175 points):** There will be 7 exercise
+  assignments. Each exercise assignment will be given at the beginning
+  of the week and will be due at the beginning of the next week. Each
+  exercise assignment is worth 25 points. Late submissions will not be
+  accepted. Exercise assignments will be submitted as a text file
+  using [moodle].
+* **Unit Exams (300 points):** There will be three unit exams. The
+  unit exams will be taking online through [moodle] and must be
+  completed during the available time. Each unit exam will take
+  approximately 1 hour to complete, however, you will have 2
+  hours. You will be able to take the online exams at any point within
+  a three day time window. Each unit exam is worth 100 points.
+* **Final Exam (300 points):** There will be 1 final exam. The final
+  exam will be taken online through [moodle] and must be completed
+  during the available time. The final exam will take approximately 2
+  hours to complete, however, you will have 3 hours. You will be able
+  to take the final exam at any point within a three day time
+  window. The final exam is worth 300 points.
+
+The total number of points you can achieve in this course
+is 1675. The approximate percentage of each assessment component with
+respect to your total grade is as follows:
+
+* 54% Programming Assignments (6% each)
+* 10% Exercise Assignments (2% each)
+* 18% Unit Exams (6% each)
+* 18% Final Exam
 
 **There is no opportunity for extra credit in this course.**
 
-**Note**: that we may include/remove assessment criteria as the
-semester progresses.
-
-### Details
-
-#### Programming Assignments
-
-There will be several intensive weekly Programming Assignments that
-you will complete individually. Programming assignments will exercise
-your understanding of material covered during the weekly online
-lectures. Your programming assignments will be automatically graded as
-well as reviewed by hand to evaluate your understanding. If your
-program does not compile or run you will receive a **0 for that
-assignment**.
-
-#### Quizzes
-
-There will be weekly quizzes on the material covered in both the
-online lectures and readings. The quizzes will be given online through
-Moodle and consist of multiple choice and true/false style
-questions. Your quizzes will be automatically graded.
-
-#### Exams
-
-There will be three exams. Each exam will be given online through
-Moodle. The majority of the questions will be multiple choice and
-true/false. The exams will also include short answer questions and
-questions that may require you to write code. The majority of the exam
-will be graded automatically. The short answer and programming
-questions will be graded by hand.
-
-## Academic Dishonesty
-
-All submitted work **must be your own**. Although students may study
-together, each student is expected to produce his or her own solution
-to the assignment problems. You may not collaborate with each other on
-exams. We encourage you to discuss assignment problems with others in
-this course, however, your writing (including code) of solutions must
-be your own. A good rule of thumb during a discussion of assignment
-exercises is to leave behind all computing devices, writing
-implements, paper, and any other material that could be used to record
-thoughts and ideas. Using a whiteboard is acceptable, however, all
-thoughts and ideas should be **erased** before leaving the room and should
-not persist in any form. This will ensure your solutions to be
-recorded in isolation and submitted without worry. You should record
-as part of your submission those individuals you collaborated with
-during a discussion—this will help protect you if academic dishonesty
-is suspected. Any outside material including online resources that you
-used to develop a solution must be recorded as part of your
-submission. Of course, copying any material directly or indirectly
-from the web is considered dishonest and is **much easier than you think
-for us to detect**, so *don't do it*!
-
-When in doubt, contact the instructor about whether a potential action
-would be considered plagiarism. Copying or using sections of someone
-else’s program or assignment, even if it has been modiﬁed by you, is
-not acceptable. The University has very clear guidelines for academic
-misconduct and the TA and instructor of this course will be vigorous
-in enforcing them. Please see the
-[UMass policy on academic honesty][conduct] if you need clarification.
-
-If you engage in academic dishonesty you will receive an F for this
-course. Further, if there are formal disciplinary proceedings, we will
-lobby for the maximum possible penalty. So, in short, don't do it.
-
-Academic dishonesty is usually the result of other problems in
-school. Please contact us or the TAs if you are unable to keep up with
-the work for any reason, and we will try to work something out. We
-want to see you succeed! We will bend over backwards to help you, but
-we will not tolerate academic dishonesty.
-
-Investigating academic dishonesty is an unpleasant experience for both
-the instructor and the student. Please help us by avoiding any
-questionable behavior.
-
-## Other Academic Regulations
-
-The [Office of the Registrar] publishes [Academic Regulations] yearly. You
-should be familiar with them. Particularly relevant are the policies
-on attendance, absences due to religious observance, and examinations.
-
-[textbook]: http://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644
-[moodle]: http://moodle.umass.edu
-[conduct]: http://www.umass.edu/dean_students/uploads/listWidget/25145/Code%20of%20Student%20Conduct%202013-2014.pdf
-[Office of the Registrar]: http://www.umass.edu/registrar
-[Academic Regulations]: http://www.umass.edu/registrar/sites/default/files/academicregs.pdf
+[moodle]: https://moodle.umass.edu
 

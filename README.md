@@ -25,5 +25,6 @@ during the course you should first consult the course documentation
 here before you communicate with us.
 
 * [Syllabus](syllabus.md)
+* [Course Policies](policies.md)
 * [Schedule](schedule.md)
 * [Academic Honesty](honesty.md)
