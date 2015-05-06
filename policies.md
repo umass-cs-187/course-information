@@ -12,6 +12,22 @@ material for each week.
 if you have completed at least half of the course. Prior to that
 *withdrawal* is the recommended course of action.
 
+## Software
+
+We will be using Java 7 and the Eclipse Development Environment in
+this course. You will be responsible for installing this software on
+your computer and learning how to use it. We will be covering the
+setup in the first week of class and expect minor issues. These issues
+(if any) should be fixed during the first week. We will not help with
+installation issues after the first week so you must be prompt with
+setting up your environment on the first day.
+
+You must use the designated versions of Java and Eclipse as outlined
+in the first assignment. Failure to comply will result in
+problems. You must install the correct versions or you will not be
+able to submit your assignments on time. Please see the late
+submission policy below for more clarity as to why this is critical.
+
 ## Late Submissions
 
 Late submissions for any assessment component will not be accepted. It
@@ -46,6 +62,17 @@ cough, or flu), etc. These cases must be accompanied with a doctor's
 detailed written note or some other authority associated with your
 circumstance. If this is a continuing matter we will recommend that
 you withdraw from the course.
+
+## Grade Issues
+
+You are responsible to be on top of your grades. Grades will be
+available through [moodle] and you should check them regularly and
+review any provided feedback. If you encounter any issues with your
+grades you have 1 week past the return of your grades to contact the
+course staff so we can investigate. We will not accept questions about
+individual assignments grades after one week so you must be prompt. We
+will provide an online form for you to submit grade issues. If you
+submit a grade issue past the 1 week deadline we will not respond.
 
 ## Academic Dishonesty
 
