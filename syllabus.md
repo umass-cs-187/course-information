@@ -118,8 +118,8 @@ course policies to understand lateness.
   to take the final exam at any point within a three day time
   window. The final exam is worth 300 points.
 
-The total number of points you can achieve in this course
-is 1675. The approximate percentage of each assessment component with
+The total number of points you can achieve in this course is
+**1675**. The approximate percentage of each assessment component with
 respect to your total grade is as follows:
 
 * 54% Programming Assignments (6% each)
