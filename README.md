@@ -26,5 +26,6 @@ here before you communicate with us.
 
 * [Syllabus](syllabus.md)
 * [Course Policies](policies.md)
+* [Course Management](management.md)
 * [Schedule](schedule.md)
 * [Academic Honesty](honesty.md)
