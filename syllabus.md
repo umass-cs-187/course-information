@@ -99,7 +99,7 @@ course policies to understand lateness.
   tests. You will have access to the public unit tests to better
   understand how we are testing your submission. The private tests
   will be additional tests only available to us.
-* **Exercises Assignments (175 points):** There will be 7 exercise
+* **Exercises Assignments (200 points):** There will be 8 exercise
   assignments. Each exercise assignment will be given at the beginning
   of the week and will be due at the beginning of the next week. Each
   exercise assignment is worth 25 points. Late submissions will not be
@@ -119,12 +119,12 @@ course policies to understand lateness.
   window. The final exam is worth 300 points.
 
 The total number of points you can achieve in this course is
-**1675**. The approximate percentage of each assessment component with
+**1700**. The approximate percentage of each assessment component with
 respect to your total grade is as follows:
 
-* 54% Programming Assignments (6% each)
-* 10% Exercise Assignments (2% each)
-* 18% Unit Exams (6% each)
+* 53% Programming Assignments (6% each)
+* 12% Exercise Assignments (1.5% each)
+* 17% Unit Exams (6% each)
 * 18% Final Exam
 
 **There is no opportunity for extra credit in this course.**
