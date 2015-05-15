@@ -88,7 +88,7 @@ the number of points you have achieved with respect to the total
 number of points you can attain in the course. You should read the
 course policies to understand lateness.
 
-* **Programming Assignments (900 points):** There will be 9
+* **Programming Assignments (800 points):** There will be 8
   programming assignments assigned during the course. Each programming
   assignment will be assigned at that start of the week and they will
   be due at the beginning of the next week. Each programming
@@ -119,13 +119,13 @@ course policies to understand lateness.
   window. The final exam is worth 300 points.
 
 The total number of points you can achieve in this course is
-**1675**. The approximate percentage of each assessment component with
+**1575**. The approximate percentage of each assessment component with
 respect to your total grade is as follows:
 
-* 54% Programming Assignments (6% each)
-* 10% Exercise Assignments (2% each)
-* 18% Unit Exams (6% each)
-* 18% Final Exam
+* 51% Programming Assignments (6% each)
+* 11% Exercise Assignments (1.5% each)
+* 19% Unit Exams (6% each)
+* 19% Final Exam
 
 **There is no opportunity for extra credit in this course.**
 
