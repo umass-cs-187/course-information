@@ -127,7 +127,7 @@ respect to your total grade is as follows:
 * 17% Unit Exams (6% each)
 * 18% Final Exam
 
-**There is no opportunity for extra credit in this course.**
+**There is no opportunity for extra credit in this course**
+- Unless otherwise specified, so do not ask!
 
 [moodle]: https://moodle.umass.edu
-
